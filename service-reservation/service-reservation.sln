@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "service-reservation", "service-reservation.csproj", "{59C49C0D-99AD-421B-BB1F-E1C54E4955B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "service-reservation-tests", "..\service-reservation-tests\service-reservation-tests.csproj", "{A2153015-E360-4B8A-975D-48F3996DEC06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59C49C0D-99AD-421B-BB1F-E1C54E4955B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C49C0D-99AD-421B-BB1F-E1C54E4955B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C49C0D-99AD-421B-BB1F-E1C54E4955B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C49C0D-99AD-421B-BB1F-E1C54E4955B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2153015-E360-4B8A-975D-48F3996DEC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2153015-E360-4B8A-975D-48F3996DEC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2153015-E360-4B8A-975D-48F3996DEC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2153015-E360-4B8A-975D-48F3996DEC06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3A7E13E-9A70-4A2F-99D8-A96EB85688D7}
+	EndGlobalSection
+EndGlobal
